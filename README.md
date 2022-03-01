@@ -1,2 +1,2 @@
--[] Desenvolver a ideia.
--[] Começar a implementar.
+-{} Desenvolver a ideia.
+-{} Começar a implementar.
